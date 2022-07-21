@@ -1,0 +1,16 @@
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\bin\Debug\net5.0\DataStructurePractice.exe
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\bin\Debug\net5.0\DataStructurePractice.deps.json
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\bin\Debug\net5.0\DataStructurePractice.runtimeconfig.json
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\bin\Debug\net5.0\DataStructurePractice.runtimeconfig.dev.json
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\bin\Debug\net5.0\DataStructurePractice.dll
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\bin\Debug\net5.0\ref\DataStructurePractice.dll
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\bin\Debug\net5.0\DataStructurePractice.pdb
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\obj\Debug\net5.0\DataStructurePractice.csproj.AssemblyReference.cache
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\obj\Debug\net5.0\DataStructurePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\obj\Debug\net5.0\DataStructurePractice.AssemblyInfoInputs.cache
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\obj\Debug\net5.0\DataStructurePractice.AssemblyInfo.cs
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\obj\Debug\net5.0\DataStructurePractice.csproj.CoreCompileInputs.cache
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\obj\Debug\net5.0\DataStructurePractice.dll
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\obj\Debug\net5.0\ref\DataStructurePractice.dll
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\obj\Debug\net5.0\DataStructurePractice.pdb
+C:\Users\MarioNtuli\source\repos\DataStructurePractice\DataStructurePractice\obj\Debug\net5.0\DataStructurePractice.genruntimeconfig.cache
